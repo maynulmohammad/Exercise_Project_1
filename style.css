@@ -1,0 +1,16 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 51px;
+}
+
+h2 {
+    font-size: 39px;
+}
+
+footer p {
+    text-align: center;
+}
